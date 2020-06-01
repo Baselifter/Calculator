@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(146, 145, 145);
+}
+
+table {
+    padding: 10px;
+    border: solid 3px;
+    border-color: black;
+    background-color: rgb(39, 38, 38);
+    box-shadow: 5px 5px 20px 10px gray;
+}
+
+table tr td input {
+    background-color: rgb(206, 194, 194);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#display {
+    background-color: rgb(78, 128, 78);
+}
